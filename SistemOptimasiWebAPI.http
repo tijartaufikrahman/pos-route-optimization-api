@@ -1,0 +1,6 @@
+@SistemOptimasiWebAPI_HostAddress = http://localhost:21001
+
+GET {{SistemOptimasiWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
